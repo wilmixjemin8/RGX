@@ -1,7 +1,7 @@
 # RGX
  =====
  
- RGX  is   a   Cross  Technology  invented  in  JAS  language...
+ RGX  is   a   Cross  Technology  invented  in  JAS  language in  2016.
  
  RGX  is   used  in   world  wide like  JDollar.
  
