@@ -3,9 +3,9 @@ RGX
 
 Cloud computing   requires  internet  connection   where client   requires
 
-more   speed  in  webpage  loads.. SO  JWEB is  not focused  for JAVA/j2ee.
+more   speed  in  webpage  loads.. 
 
-JWEb  is focused for  JAVA1.0.
+JWEb  is focused for  JAVA/j2ee  but less  security  in  JWEB.
 
 what  are  most  disadvantages  in java/j2ee?
 =====================================================
@@ -26,7 +26,7 @@ b) JAVA  language  has  fluent  english  statements can  be  easily  read
 
 by hackers  in  cloud computing side..
 
-So  in  case  of security side  JAVA/j2ee  technology did not fit  in cloud computing.
+So  in  case  of security side  JAVA/j2ee  technology did not fit mostly  in cloud computing.
 
 THAT's  why JAVA1.0  is  introduced  by me   at year  2015.
 
