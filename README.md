@@ -1,10 +1,9 @@
 # RGX
  =====
  
- RGX  is   a   Cross  Technology  invented  in  JAS  language in  2016.
+ RGX  is   a    Technology  invented  in  JAS  language in  2016.
  
- RGX  is   used  in   world  wide like  JDollar.
- 
+
  
  
  SYNTAX:
@@ -74,7 +73,7 @@ RGX.WriteLine(Template.tiles(t));// convert  html  to template
  
  ===> RGX  is  also used  for  webdesign  purpose...
  
- ====> RGX is  used  with JDollar.
+
  
  ====>  RGX  also   behaves  like JAVA and  it  is   better  than  JAVA/j2ee.
  
@@ -84,7 +83,7 @@ RGX.WriteLine(Template.tiles(t));// convert  html  to template
  
  =====>RGX  also behaves  like  OPLUS and  S@...
  
- ====>  RGX  is   the  JESUS CHRIST  Technology
+
  
  consists  of  7 modules....
  
