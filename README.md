@@ -85,6 +85,6 @@ RGX.WriteLine(Template.tiles(t));// convert  html  to template
  
 
  
- consists  of  7 modules....
- 
+ Note: RGX   Cloud  WebDesign  is  otherwise  known  as  JSTAR.
+ =============================================================
  
