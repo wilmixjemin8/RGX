@@ -1,7 +1,7 @@
 # RGX
  =====
  
- RGX  is   a    Technology  invented  in  JAS  language in  2016.
+ RGX  is   a   Programming Language  invented  in  JAS  language in  2016.
  
 
  
@@ -79,12 +79,12 @@ RGX.WriteLine(Template.tiles(t));// convert  html  to template
  
  ====> RGX  is also  used in  solving  complex problems
  
- ====> RGX is used  with  Mobile cloud computing
+ ====> RGX is used  with  Mobile remotewebapplication
  
  =====>RGX  also behaves  like  OPLUS and  S@...
  
 
  
- Note: RGX   Cloud  WebDesign  is  otherwise  known  as  JSTAR.
+ Note: RGX   remote  webapplication-  WebDesign  is  otherwise  known  as  JSTAR.
  =============================================================
  
