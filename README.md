@@ -1,7 +1,7 @@
 # RGX
  =====
  
- RGX  is   a   Programming Language  invented  in  JAS  language in  2016.
+ RGX  is   a   Programming Language  invented  in  GDollar  language in  2016.
  
 
  
