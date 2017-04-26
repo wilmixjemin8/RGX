@@ -85,6 +85,3 @@ RGX.WriteLine(Template.tiles(t));// convert  html  to template
  
 
  
- Note: RGX   remote  webapplication-  WebDesign  is  otherwise  known  as  JSTAR.
- =============================================================
- 
